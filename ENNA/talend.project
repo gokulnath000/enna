@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_S2hZURJoEeqZTLboHpcqDA" label="enna" description="" language="java" technicalLabel="ENNA" creationDate="2019-11-29T10:49:30.000+0530" author="_S2hZUhJoEeqZTLboHpcqDA" productVersion="Talend Data Fabric-7.1.1.20181026_1147" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gokulnath000/enna.git&quot;,&quot;login&quot;:&quot;gokul@itshoulders.com&quot;,&quot;passwd&quot;:&quot;hw7qW9FIiSTeO9L7Po4ssQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+    <migrationTask xmi:id="_TPM_EBJoEeqZTLboHpcqDA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_S2hZUhJoEeqZTLboHpcqDA" login="gokul@itshoulders.com" firstName="Gokulnath" lastName="Vimalraj" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
